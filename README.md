@@ -16,7 +16,7 @@
 
 ## 🌱 I’m currently learning:
 - Azure DevOps, GitHub Actions, and cloud automation
-- Cybersecurity (pursuing a degree)
+- BS.C in Data Science (pursuing a degree)
 - Python scripting for infrastructure and automation
 
 ---
