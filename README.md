@@ -37,8 +37,7 @@ A visual storytelling project combining cinematic shots, fashion, and undergroun
 ## 📫 How to reach me:
 📍 Warsaw, Poland  
 📧 huseyngurbanli@gmail.com  
-📷 [Instagram (Visuals)](https://www.instagram.com/raw_visualstudio/)  
-🌐 Portfolio Website – *coming soon*
+ 
 
 ---
 
