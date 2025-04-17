@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Huseynbala Gurbanli
 
-🎯 I'm a software developer with a passion for **automation in cloud environments**. I’m transitioning from manual testing into cloud engineering, blending code, infrastructure, and creativity to solve real-world problems.  
+🎯 I'm a QA Engineer with a passion for **automation in cloud environments**. I’m transitioning from manual testing into cloud engineering, blending code, infrastructure, and creativity to solve real-world problems.  
 📸 On the side, I run **Raw Visual Studio**, where I capture cinematic visuals through photography and videography.
 
 ---
